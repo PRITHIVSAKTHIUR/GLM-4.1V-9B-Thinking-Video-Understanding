@@ -1,4 +1,4 @@
-# **GLM-4.1V-9B-Thinking Video Understanding Application**
+# **GLM-4.1V-9B-Thinking Video Understanding**
 
 > A Gradio-based web application for video analysis using the GLM-4.1V-9B-Thinking model, designed to explore the upper limits of reasoning in vision-language models. By introducing a "thinking paradigm" and leveraging reinforcement learning, the model significantly enhances its capabilities.
 
